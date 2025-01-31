@@ -1,0 +1,24 @@
+obj/
+Properties/
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore config files
+appsettings.json
+
+
+obj/
+Properties/
+

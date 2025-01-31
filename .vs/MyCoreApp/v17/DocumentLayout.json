@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\",
+  "WorkspaceRootPath": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|c:\\users\\rejin\\source\\repos\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|d:\\six sem\\emps 102\\mycoreapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|c:\\users\\rejin\\source\\repos\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|d:\\six sem\\emps 102\\mycoreapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|c:\\users\\rejin\\source\\repos\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|d:\\six sem\\emps 102\\mycoreapp\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|c:\\users\\rejin\\source\\repos\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|d:\\six sem\\emps 102\\mycoreapp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95066CE6-2703-4DB7-BA70-69A5435911A4}|MyCoreApp.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -60,48 +60,45 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Privacy.cshtml.cs",
               "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:45:46.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:45:46.543Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T00:42:59.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:42:59.037Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T00:37:29.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T00:37:29.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Index.cshtml",
+              "DocumentMoniker": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\rejin\\source\\repos\\MyCoreApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Six Sem\\EMPS 102\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
